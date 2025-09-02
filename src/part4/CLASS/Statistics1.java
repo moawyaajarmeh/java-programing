@@ -16,6 +16,6 @@ this.number++;    }
         s1.addNumber(5);
         s1.addNumber(10);
         s1.addNumber(15);
-        System.out.println("Count of added numbers"+s1.getcount());
+        System.out.println("Count of            added numbers"+s1.getcount());
     }
 }
